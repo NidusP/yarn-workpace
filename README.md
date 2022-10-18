@@ -1,2 +1,2 @@
-# yarn-workpace
-a yarn-workpace demo
+# yarn-workspace
+a yarn-workspace demo
